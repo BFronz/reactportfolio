@@ -1,5 +1,5 @@
 import React from 'react';
-import { Jumbotron as Jumbo, Container}  from 'react-bootstrap';
+import { Jumbotron as Jumbo, Container }  from 'react-bootstrap';
 import styled from 'styled-components';
 import alaskaImage from '../assets/images/alaska.jpg'
 
