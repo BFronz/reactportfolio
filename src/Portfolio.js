@@ -8,7 +8,7 @@ export const Portfolio = () => (
   <CardColumns>
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/project-flipcards.png" height="200px" width="200px" />
+    <Card.Img variant="top" src="../assets/projects/project-flipcards.png" height="180px" width="180px" />
     <Card.Body>
       <Card.Title>FlipCards</Card.Title>
       <Card.Text>
@@ -19,7 +19,7 @@ export const Portfolio = () => (
   </Card>
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/project-burger.png" height="200px" width="200px"/>
+    <Card.Img variant="top" src="../assets/projects/project-burger.png" height="170px" width="180px"/>
     <Card.Body>
       <Card.Title>Burger</Card.Title>
       <Card.Text>
@@ -30,7 +30,7 @@ export const Portfolio = () => (
   </Card>
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/project-workdayscheduler.png" height="200px" width="200px"/>
+    <Card.Img variant="top" src="../assets/projects/project-workdayscheduler.png" height="180px" width="180px"/>
     <Card.Body>
       <Card.Title>FlipCards</Card.Title>
       <Card.Text>
@@ -41,7 +41,7 @@ export const Portfolio = () => (
   </Card>
 
   <Card className="pb-4">
-    <Card.Img variant="top" src="../assets/projects/project-hipgrandpa.png" height="200px" width="200px" />
+    <Card.Img variant="top" src="../assets/projects/project-hipgrandpa.png" height="193px" width="180px" />
     <Card.Body>
       <Card.Title>Hip Grandpa</Card.Title>
       <Card.Text>
@@ -53,7 +53,7 @@ export const Portfolio = () => (
 
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/project-weatherdashboard.png" height="175px" width="200px" />
+    <Card.Img variant="top" src="../assets/projects/project-weatherdashboard.png" height="158px" width="180px" />
     <Card.Body>
       <Card.Title>Weather Dashboard</Card.Title>
       <Card.Text>
@@ -65,7 +65,7 @@ export const Portfolio = () => (
 
 
   <Card  className="pb-4">
-    <Card.Img variant="top" src="../assets/projects/project-codequiz.png" height="200px" width="200px" />
+    <Card.Img variant="top" src="../assets/projects/project-codequiz.png" height="190px" width="180px" />
     <Card.Body>
       <Card.Title>Code Quiz</Card.Title>
       <Card.Text>
