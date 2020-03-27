@@ -8,7 +8,7 @@ export const Portfolio = () => (
   <CardColumns>
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/project-flipcards.png" height="180px" width="180px" />
+    <Card.Img variant="top" src="../assets/projects/project-flipcards-new.png" height="180px" width="180px" />
     <Card.Body>
       <Card.Title>FlipCards</Card.Title>
       <Card.Text>
@@ -32,7 +32,7 @@ export const Portfolio = () => (
   <Card>
     <Card.Img variant="top" src="../assets/projects/project-workdayscheduler.png" height="180px" width="180px"/>
     <Card.Body>
-      <Card.Title>FlipCards</Card.Title>
+      <Card.Title>Work Day Scheduler</Card.Title>
       <Card.Text>
       Calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. Color coded timeblocks easily show hours of the day.
       </Card.Text>
@@ -53,7 +53,7 @@ export const Portfolio = () => (
 
 
   <Card>
-    <Card.Img variant="top" src="../assets/projects/project-weatherdashboard.png" height="158px" width="180px" />
+    <Card.Img variant="top" src="../assets/projects/project-weatherdashboard.png" height="154px" width="180px" />
     <Card.Body>
       <Card.Title>Weather Dashboard</Card.Title>
       <Card.Text>
@@ -64,8 +64,8 @@ export const Portfolio = () => (
   </Card>
 
 
-  <Card  className="pb-4">
-    <Card.Img variant="top" src="../assets/projects/project-codequiz.png" height="190px" width="180px" />
+  <Card>
+    <Card.Img variant="top" src="../assets/projects/project-codequiz.png" height="170px" width="180px" />
     <Card.Body>
       <Card.Title>Code Quiz</Card.Title>
       <Card.Text>
